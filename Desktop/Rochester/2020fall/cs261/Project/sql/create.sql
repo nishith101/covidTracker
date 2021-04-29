@@ -1,6 +1,6 @@
 CREATE DATABASE IF NOT EXISTS covidTracker;
 USE covidTracker;
-
+//sadadsasd
 CREATE TABLE IF NOT EXISTS Person (
 	id VARCHAR(20) NOT NULL,
 	fName VARCHAR(14) NOT NULL,
